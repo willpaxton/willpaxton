@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willpaxton
 - 👀 I’m interested in Computer Science and Gaming.
-- 🌱 I’m currently learning nothing, it's summer break.
+- 🌱 I’m currently learning Python!
 - 📫 How to reach me: dm me on my photography insta page!: @willpphotography
 
 <!---
